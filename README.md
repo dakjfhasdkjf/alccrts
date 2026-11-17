@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alec, welcome to my portfolio! 
+Welcome to my portfolio! 
 
 I'm currently exploring the world of data analytics and steadily teaching myself various technical skills such as SQL, Python, R Studio and Data Viz.  I will use this Github page to document my experiments and progress.  I am particularly excited about gaining analytical experience in the tech and media industries.  
 
